@@ -85,6 +85,19 @@ const data = [
       }
     ]
   },
-
+  {
+    question: "Natural Ededler 4",
+    answers: [
+      {
+        title: "Natural Ededlerin 1"
+      },
+      {
+        title: "Natural Ededlerin 2"
+      },
+      {
+        title: "Natural Ededlerin 3"
+      }
+    ]
+  }
 ]
 root.render(<App />);
